@@ -1,1 +1,1 @@
-# hackerearth_problems
+# Hackerearth_problems
